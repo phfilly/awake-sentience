@@ -1,7 +1,7 @@
 {
-  "name": "nuxtlify",
+  "name": "Sentience health",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
+  "description": "Sentience health website",
   "author": "Daniel Kelly",
   "license": "MIT",
   "scripts": {

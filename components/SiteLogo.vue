@@ -6,16 +6,7 @@
         blink: blinking
       }"
     >
-      <img
-        v-for="x in frames"
-        :key="x"
-        :src="`/logo-frames/logo-f${x - 1}.svg`"
-      />
-      <img
-        v-for="x in frames"
-        :key="`${x}-r`"
-        :src="`/logo-frames/logo-f${frames - x}.svg`"
-      />
+      <img src="/logo_main.png" />
     </div>
   </div>
 </template>
@@ -26,14 +17,8 @@ export default {
     return {
       frames: 5,
       currentFrame: 1,
-      blinking: true
+      blinking: false
     }
-  },
-  mounted() {
-    setInterval(() => {
-      const rand = Math.ceil(Math.random() * 10)
-      this.blinking = rand % 2
-    }, 1000)
   }
 }
 </script>
@@ -45,8 +30,9 @@ export default {
 }
 .logo-wrapper {
   position: relative;
-  height: 50px;
+  height: 66px;
   overflow: hidden;
+  margin-top: -5px;
   width: 200px;
   .logo-inner {
     position: absolute;
