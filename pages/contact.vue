@@ -11,10 +11,20 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Welcome!
               </p>
               <p class="subtitle">
-                What can we do for you?
+                Where to find us
+              </p>
+              <p>
+                Sentience Health<br />
+                45 Tudor Place<br />
+                61 Hillcrest Avenue<br />
+                Randburg<br />
+                South Africa<br />
+                <a href="mailto:info@sentiencehealth.com">
+                  info@sentiencehealth.com
+                </a>
               </p>
             </article>
           </div>

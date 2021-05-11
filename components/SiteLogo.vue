@@ -39,7 +39,7 @@ export default {
     height: 500px;
     img {
       display: block;
-      height: 40px;
+      height: 70px;
       margin: 5px;
       max-height: initial;
     }

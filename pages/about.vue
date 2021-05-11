@@ -2,47 +2,26 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
+      subtitle=""
       image="/uploads/about-hero.jpg"
     ></site-hero>
-    <main-section theme="sidebar-right">
+    <main-section>
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
+          <br />
+          In 2020 a team of clinical psychologists, and technology solution
+          providers combined their expertise to develop an innovative and
+          proactive programme and service to gain insight into employee wellness
+          as well as obtain employee feedback around organisational issues and
+          needs. Sentience Health, has used a unique combination of psychology
+          and technology to create an employee feedback program to serve as an
+          effective platform to allow leaders to hear directly from staff and
+          gain insight into organisational culture as well as monitor staff
+          wellness.
         </div>
 
-        <div class="tile is-ancestor">
+        <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -82,14 +61,7 @@
               </figure>
             </article>
           </div>
-        </div>
-      </template>
-
-      <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
-        <posts-grid :per-row="1" :number="2" />
+        </div> -->
       </template>
     </main-section>
   </div>
