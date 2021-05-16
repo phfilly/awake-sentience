@@ -27,13 +27,17 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
+      name: 'Services',
+      link: '/services'
     },
     {
-      name: 'News',
-      link: '/categories'
+      name: 'Contact',
+      link: '/contact'
     }
+    // {
+    //   name: 'News',
+    //   link: '/categories'
+    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
