@@ -20,7 +20,6 @@
           gain insight into organisational culture as well as monitor staff
           wellness.
         </div>
-
         <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">

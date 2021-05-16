@@ -21,6 +21,23 @@
           wellness.
         </div>
 
+        <h2 class="team-header">Team</h2>
+
+        <div class="row">
+          <div class="column" style="background-color:#aaa;">
+            <h2>Member</h2>
+            <p>Some text..</p>
+          </div>
+          <div class="column" style="background-color:#bbb;">
+            <h2>Member</h2>
+            <p>Some text..</p>
+          </div>
+          <div class="column" style="background-color:#ccc;">
+            <h2>Member</h2>
+            <p>Some text..</p>
+          </div>
+        </div>
+
         <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
