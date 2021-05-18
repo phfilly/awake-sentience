@@ -5,11 +5,7 @@
         “Sentience is the capacity to be aware of feelings and sensations. The
         word was first coined by philosophers in the 1630s for the concept of an
         ability to feel, derived from Latin sentientem (a feeling), to
-        distinguish it from the ability to think. In modern Western philosophy,
-        sentience is the ability to experience sensations. In different Asian
-        religions, the word 'sentience' has been used to translate a variety of
-        concepts. In science fiction, the word 'sentience' is sometimes used
-        interchangeably with sapience, self awareness or consciousness.”
+        distinguish it from the ability to think.”
       </p>
       <p class="subtitle">
         ~ Sentience Health

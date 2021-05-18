@@ -13,7 +13,6 @@
       <template v-slot:default>
         <services />
         <solution />
-        <team />
         <partners />
         <posts-grid />
       </template>
@@ -31,7 +30,6 @@ import { setPageData } from '../helper'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 import Services from '~/components/Services'
 import Solution from '~/components/Solution'
-import Team from '~/components/Team'
 import Partners from '~/components/Partners'
 
 export default {
@@ -45,7 +43,6 @@ export default {
     NewsLetterFormModal,
     Services,
     Solution,
-    Team,
     Partners
   },
   computed: {
