@@ -1,19 +1,30 @@
 <template>
-  <resource-grid
-    v-bind="$props"
-    :resource="$cms.post"
-    :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
-  >
-    <template v-slot:default="{ item }">
-      <post-card
-        :title="item.title"
-        :link="item.slug ? `/${item.slug}` : ''"
-        :image="item.featureImage"
-        :author="item.author"
-        :date="item.date"
-      />
-    </template>
-  </resource-grid>
+  <div>
+    <section class="section is-medium">
+      <h1 class="title">
+        In the news
+      </h1>
+      <h2 class="subtitle">
+        A simple container to divide your page into <strong>sections</strong>,
+        like the one you're currently reading.
+      </h2>
+    </section>
+    <resource-grid
+      v-bind="$props"
+      :resource="$cms.post"
+      :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
+    >
+      <template v-slot:default="{ item }">
+        <post-card
+          :title="item.title"
+          :link="item.slug ? `/${item.slug}` : ''"
+          :image="item.featureImage"
+          :author="item.author"
+          :date="item.date"
+        />
+      </template>
+    </resource-grid>
+  </div>
 </template>
 
 <script>

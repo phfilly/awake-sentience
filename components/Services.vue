@@ -1,8 +1,14 @@
 <template>
   <div>
-    <h1 class="title animated fadeInUp">
-      Our services
-    </h1>
+    <section class="section is-medium">
+      <h1 class="title">
+        Our services
+      </h1>
+      <h2 class="subtitle">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua
+      </h2>
+    </section>
     <div>
       A number of employers underestimate the financial impact of that mental
       illness and poor organisational culture has on their bottom-line. Poor

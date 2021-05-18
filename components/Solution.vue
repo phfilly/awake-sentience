@@ -1,8 +1,14 @@
 <template>
   <div>
-    <h1 class="title animated fadeInUp">
-      Our solution
-    </h1>
+    <section class="section is-medium">
+      <h1 class="title">
+        Our solution
+      </h1>
+      <h2 class="subtitle">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua
+      </h2>
+    </section>
     <div>
       Sentience Health was founded as a response to the this identified need. A
       team of clinical psychologists and technology specialists combined their
