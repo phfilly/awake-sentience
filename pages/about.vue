@@ -34,6 +34,48 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod eiusmod tempor incididunt ut labore et dolore magna aliqua
           </h2>
+          <div class="columns is-multiline">
+            <div class="column is-half">
+              <div>
+                <figure class="image is-4by3">
+                  <img
+                    src="https://bulma.io/images/placeholders/1280x960.png"
+                    alt="Placeholder image"
+                  />
+                </figure>
+              </div>
+              <h5 class="subtitle is-size-4">
+                Kevashini Govender-Naidoo
+              </h5>
+              <p>
+                Kevashini Govender-Naidoo is a University of Cape Town trained
+                clinical psychologist and a specialist organisational
+                development and support consultant. After approximately 20 years
+                of clinical experience, Kevashini co-founded Impilo Consulting
+                in 2017. She took an interest in systems-psychodynamic work with
+                organisations as a psychology student, and developed an
+                expertise through extensive and diverse experience in the public
+                and non governmental sectors. Her clinical experience also
+                includes public and private practice with Individuals, groups
+                and organisations In South Africa and the United Kingdom. She is
+                especially interested in the impact of mental health on an
+                organisation/workplace, student wellness within tertiary
+                institutions and scholarship funds as well as issues of race,
+                power and gender within organisations. Kevashini currently
+                consults for the University of Cape Town and has been doing so
+                for the past 8 years.
+              </p>
+            </div>
+            <div class="column is-half">
+              Second column
+            </div>
+            <div class="column is-half">
+              Third column
+            </div>
+            <div class="column is-half">
+              Fourth column
+            </div>
+          </div>
         </section>
 
         <team />
