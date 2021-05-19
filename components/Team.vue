@@ -1,13 +1,9 @@
 <template>
   <div>
     <section class="section is-medium">
-      <h1 class="title">
+      <h1 class="title has-text-centered">
         Meet the team
       </h1>
-      <h2 class="subtitle">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua
-      </h2>
     </section>
     <div class="columns">
       <div class="column">
@@ -19,10 +15,8 @@
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4">
-          Kevashini Govender-Naidoo
-        </h5>
-        <p>
+        <h5 class="subtitle is-size-4"><br />Kevashini Govender-Naidoo</h5>
+        <p class="has-text-justified">
           Kevashini Govender-Naidoo is a University of Cape Town trained
           clinical psychologist and a specialist organisational development and
           support consultant. After approximately 20 years of clinical
@@ -49,10 +43,8 @@
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4">
-          Ayesha Booley-Schreuder
-        </h5>
-        <p>
+        <h5 class="subtitle is-size-4"><br />Ayesha Booley-Schreuder</h5>
+        <p class="has-text-justified">
           Ayesha Booley-Schreuder, is a Clinical Psychologist, registered with
           the Health Professions Council of South Africa (HPCSA). She completed
           her undergraduate studies in Psychology in 1995 as well as her Masters
@@ -85,10 +77,8 @@
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4">
-          Nivan Bijou
-        </h5>
-        <p>
+        <h5 class="subtitle is-size-4"><br />Nivan Bijou</h5>
+        <p class="has-text-justified">
           Of Nivan’s 23 years in financial and financial related industries, his
           last 15 years have been in payments. Over the 8 years he has set up a
           number of payments & loyalty companies including Craft, Imafin and
@@ -121,10 +111,8 @@
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4">
-          Sumit Mittal
-        </h5>
-        <p>
+        <h5 class="subtitle is-size-4"><br />Sumit Mittal</h5>
+        <p class="has-text-justified">
           Sumit Mittal is an accomplished professional with over 19 years of
           corporate experience having worked across world-leading brands such as
           GE Capital & Mastercard Worldwide within South Asia, Middle East &

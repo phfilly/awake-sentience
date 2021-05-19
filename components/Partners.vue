@@ -1,13 +1,9 @@
 <template>
   <div>
     <section class="section is-medium">
-      <h1 class="title">
+      <h1 class="title has-text-centered">
         Partners
       </h1>
-      <h2 class="subtitle">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua
-      </h2>
     </section>
     <div class="columns is-centered is-vcentered">
       <div class="column is-half">

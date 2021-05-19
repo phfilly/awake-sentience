@@ -1,17 +1,13 @@
 <template>
   <div>
     <section class="section is-medium">
-      <h1 class="title">
+      <h1 class="title has-text-centered">
         Our solution
       </h1>
-      <h2 class="subtitle">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua
-      </h2>
     </section>
     <div>
-      Sentience Health was founded as a response to the this identified need. A
-      team of clinical psychologists and technology specialists combined their
+      Sentience Health was founded as a response to this identified need. A team
+      of clinical psychologists and technology specialists combined their
       expertise to develop an innovative and proactive programme and service to
       gain insight into employee wellness as well as obtain employee feedback
       around organisational issues and needs. Sentience Health, has used a
@@ -21,6 +17,7 @@
       well as monitor staff wellness. Without open employee feedback, management
       might not even be aware of issues that could be eroding employee
       productivity and negatively impacting workplace relationships and culture.
+      <br /><br />
       Effective guidelines and courses of action can be generated based on the
       themes of psychologically analysed feedback captured by the employee
       feedback systems. Deeply rooted in psychological theory and practice,
@@ -32,15 +29,16 @@
       has developed and used the latest technology to allow for anonymity of
       employees in providing feedback. This, therefore allows employees to state
       and vent their true and honest feelings, which might otherwise be
-      difficult to openly discuss or ‘unknown’ altogether. Providing staff
-      complete anonymity not only provides a cathartic venting experience for
-      employees but also enables the responses provided to inform and
-      effectively shape organisational policies, procedures and interventions.
-      Sentience Health’s anonymous employee feedback programme ensures maximise
-      engagement with employees. Psychological analysis of feedback allows for
-      leaders to gain insight into unknown dynamics affecting the organisations
-      culture or potential mental health issues and risks facing employees
-      allowing for necessary intervention.
+      difficult to openly discuss or ‘unknown’ altogether.
+      <br /><br />
+      Providing staff complete anonymity not only provides a cathartic venting
+      experience for employees but also enables the responses provided to inform
+      and effectively shape organisational policies, procedures and
+      interventions. Sentience Health’s anonymous employee feedback programme
+      ensures maximise engagement with employees. Psychological analysis of
+      feedback allows for leaders to gain insight into unknown dynamics
+      affecting the organisations culture or potential mental health issues and
+      risks facing employees allowing for necessary intervention.
     </div>
   </div>
 </template>
