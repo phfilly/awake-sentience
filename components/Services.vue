@@ -1,11 +1,11 @@
 <template>
   <div>
-    <section class="section is-medium">
+    <section class="section is-normal">
       <h1 class="title has-text-centered">
         Our services
       </h1>
     </section>
-    <div>
+    <div class="content is-medium">
       A number of employers underestimate the financial impact of that mental
       illness and poor organisational culture has on their bottom-line. Poor
       work culture as well as mental illness in the workplace leads to decreased

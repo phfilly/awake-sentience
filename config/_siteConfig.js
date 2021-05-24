@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Sentience Health',
-  tagline: 'Sentience is the capacity to be aware of feelings and sensations.',
+  tagline: 'Sentience is the capacity to be aware of feelings and sensations',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {

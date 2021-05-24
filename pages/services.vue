@@ -7,7 +7,7 @@
     ></site-hero>
     <main-section>
       <template v-slot:default>
-        <div class="content">
+        <div class="content is-medium">
           <quote-card />
           <br />
           In 2020 a team of clinical psychologists, and technology solution

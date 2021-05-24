@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="section is-medium">
+    <section class="section is-normal">
       <h1 class="title has-text-centered">
         In the news
       </h1>

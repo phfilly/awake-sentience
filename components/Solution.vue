@@ -1,11 +1,11 @@
 <template>
   <div>
-    <section class="section is-medium">
+    <section class="section is-normal">
       <h1 class="title has-text-centered">
         Our solution
       </h1>
     </section>
-    <div>
+    <div class="content is-medium">
       Sentience Health was founded as a response to this identified need. A team
       of clinical psychologists and technology specialists combined their
       expertise to develop an innovative and proactive programme and service to
