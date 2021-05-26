@@ -7,7 +7,7 @@
     </section>
     <div class="columns is-centered is-vcentered">
       <div class="column is-half">
-        <figure class="image partner">
+        <figure class="image partner partner-width">
           <img
             src="~/assets/uploads/ventallout.png"
             style="background-color: #2e373c;"
@@ -15,7 +15,7 @@
         </figure>
       </div>
       <div class="column is-half">
-        <figure class="image partner">
+        <figure class="image partner partner-width">
           <img src="~/assets/uploads/impiloconsulting.png" />
         </figure>
       </div>

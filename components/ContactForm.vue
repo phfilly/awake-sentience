@@ -24,20 +24,6 @@
         </span>
       </div>
     </div>
-    <!-- Subject -->
-    <div class="field">
-      <label class="label is-medium">Subject</label>
-      <div class="control has-icons-left">
-        <input
-          class="input is-medium"
-          type="text"
-          placeholder="Brief Summary"
-        />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="briefcase" />
-        </span>
-      </div>
-    </div>
     <!-- Message -->
     <div class="field">
       <label class="label is-medium">Message</label>
