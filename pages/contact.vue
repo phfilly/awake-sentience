@@ -10,7 +10,7 @@
                 Welcome!
               </p>
               <p class="subtitle">
-                Where to find us
+                Where to find us:
               </p>
               <p>
                 Sentience Health<br />
@@ -19,7 +19,7 @@
                 Randburg<br />
                 South Africa<br />
                 <a href="mailto:info@sentiencehealth.com">
-                  info@sentiencehealth.com <br /><br />
+                  info@sentiencehealth.com <br /><br /><br />
                 </a>
               </p>
               <iframe

@@ -1,6 +1,7 @@
 <template>
   <div>
     <section class="section is-normal">
+      <i class="far fa-handshake"></i>
       <h1 class="title has-text-centered">
         Partners
       </h1>
