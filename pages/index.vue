@@ -13,24 +13,22 @@
       <template v-slot:default>
         <services />
         <solution />
-        <partners />
         <posts-grid />
       </template>
       <template v-slot:sidebar>
         Nothing here
       </template>
     </main-section>
-    <news-letter-form-modal />
+    <!-- <news-letter-form-modal /> -->
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
-import NewsLetterFormModal from '~/components/NewsLetterFormModal'
+// import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 import Services from '~/components/Services'
 import Solution from '~/components/Solution'
-import Partners from '~/components/Partners'
 
 export default {
   name: 'HomePage',
@@ -40,10 +38,8 @@ export default {
     }
   },
   components: {
-    NewsLetterFormModal,
     Services,
-    Solution,
-    Partners
+    Solution
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])

@@ -22,16 +22,28 @@ export default {
       name: 'Home',
       link: '/'
     },
+    // {
+    //   name: 'About',
+    //   link: '/about'
+    // },
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
-      name: 'Services',
+      name: 'Services and Solutions',
       link: '/Services'
     },
     {
-      name: 'Contact',
+      name: 'Our Team',
+      link: '/about'
+    },
+    {
+      name: 'In the news',
+      link: '/news'
+    },
+    {
+      name: 'Partners',
+      link: '/partners'
+    },
+    {
+      name: 'Contact us',
       link: '/contact'
     }
   ],
