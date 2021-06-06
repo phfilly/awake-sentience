@@ -11,8 +11,8 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-        <services />
-        <solution />
+        <about />
+        <!-- <solution /> -->
         <posts-grid />
       </template>
       <template v-slot:sidebar>
@@ -27,8 +27,8 @@
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
 // import NewsLetterFormModal from '~/components/NewsLetterFormModal'
-import Services from '~/components/Services'
-import Solution from '~/components/Solution'
+import About from '~/components/About'
+// import Solution from '~/components/Solution'
 
 export default {
   name: 'HomePage',
@@ -38,8 +38,8 @@ export default {
     }
   },
   components: {
-    Services,
-    Solution
+    About
+    // Solution
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])

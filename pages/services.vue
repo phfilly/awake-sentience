@@ -1,13 +1,26 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Our Services"
+      title="Services and Solution"
       subtitle=""
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section>
       <template v-slot:default>
+        <h1 class="title has-text-centered">
+          Context
+        </h1>
         <div class="content is-medium">
+          <br />
+          <!-- In 2020 a team of clinical psychologists, and technology solution
+          providers combined their expertise to develop an innovative and
+          proactive programme and service to gain insight into employee wellness
+          as well as obtain employee feedback around organisational issues and
+          needs. Sentience Health, has used a unique combination of psychology
+          and technology to create an employee feedback program to serve as an
+          effective platform to allow leaders to hear directly from staff and
+          gain insight into organisational culture as well as monitor staff
+          wellness.<br /><br /> -->
           A number of employers underestimate the financial impact of that
           mental illness and poor organisational culture has on their
           bottom-line. Poor work culture as well as mental illness in the
@@ -37,7 +50,21 @@
           in-tune with all dynamics and possible risks within their teams and
           organisation.
         </div>
+        <solution />
       </template>
     </main-section>
   </div>
 </template>
+
+<script>
+import Solution from '../components/Solution.vue'
+
+export default {
+  head() {
+    return {
+      title: `About | ${this.$siteConfig.siteName}`
+    }
+  },
+  components: { Solution }
+}
+</script>
