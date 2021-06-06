@@ -6,7 +6,7 @@
         blink: blinking
       }"
     >
-      <img src="/logo_main.png" />
+      <!-- <img src="/logo_main.png" /> -->
     </div>
   </div>
 </template>

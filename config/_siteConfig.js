@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Sentience Health',
+  siteName: '/static/logo_main.png',
   tagline: 'Sentience is the capacity to be aware of feelings and sensations',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
@@ -35,7 +35,7 @@ export default {
       link: '/about'
     },
     {
-      name: 'In the news',
+      name: 'In The News',
       link: '/news'
     },
     {

@@ -1,13 +1,13 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
+      title="Our Team"
       subtitle=""
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section>
       <template v-slot:default>
-        <div class="content is-medium">
+        <!-- <div class="content is-medium">
           <quote-card />
           <br />In modern Western philosophy, sentience is the ability to
           experience sensations. In different Asian religions, the word
@@ -23,7 +23,7 @@
           feedback program to serve as an effective platform to allow leaders to
           hear directly from staff and gain insight into organisational culture
           as well as monitor staff wellness.
-        </div>
+        </div> -->
         <team />
       </template>
     </main-section>
