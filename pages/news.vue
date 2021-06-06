@@ -7,14 +7,13 @@
     ></site-hero>
     <main-section>
       <template v-slot:default>
-        <news-letter-form-modal />
+        <posts-grid />
       </template>
     </main-section>
+    <news-letter-form-modal />
   </div>
 </template>
 <script>
-// import QuoteCard from '~/components/cards/QuoteCard'
-// import TeamCard from '~/components/cards/QuoteCard'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {

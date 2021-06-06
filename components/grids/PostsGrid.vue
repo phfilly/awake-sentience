@@ -1,10 +1,6 @@
 <template>
   <div>
-    <section class="section is-normal">
-      <h1 class="title has-text-centered">
-        In the news
-      </h1>
-    </section>
+    <section class="section is-normal"></section>
     <resource-grid
       v-bind="$props"
       :resource="$cms.post"

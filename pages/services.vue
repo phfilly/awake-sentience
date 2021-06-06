@@ -1,9 +1,9 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Services and Solution"
+      title="Services and Solutions"
       subtitle=""
-      image="/uploads/about-hero.jpg"
+      image="/uploads/scott-graham-min.jpg"
     ></site-hero>
     <main-section>
       <template v-slot:default>
@@ -12,15 +12,6 @@
         </h1>
         <div class="content is-medium">
           <br />
-          <!-- In 2020 a team of clinical psychologists, and technology solution
-          providers combined their expertise to develop an innovative and
-          proactive programme and service to gain insight into employee wellness
-          as well as obtain employee feedback around organisational issues and
-          needs. Sentience Health, has used a unique combination of psychology
-          and technology to create an employee feedback program to serve as an
-          effective platform to allow leaders to hear directly from staff and
-          gain insight into organisational culture as well as monitor staff
-          wellness.<br /><br /> -->
           A number of employers underestimate the financial impact of that
           mental illness and poor organisational culture has on their
           bottom-line. Poor work culture as well as mental illness in the

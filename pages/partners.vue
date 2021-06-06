@@ -3,7 +3,7 @@
     <site-hero
       title="Partners"
       subtitle=""
-      image="/uploads/about-hero.jpg"
+      image="/uploads/cytonn.jpg"
     ></site-hero>
     <main-section>
       <template v-slot:default>
@@ -13,8 +13,6 @@
   </div>
 </template>
 <script>
-// import QuoteCard from '~/components/cards/QuoteCard'
-// import TeamCard from '~/components/cards/QuoteCard'
 import Partners from '../components/Partners.vue'
 
 export default {

@@ -12,23 +12,15 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <about />
-        <!-- <solution /> -->
-        <posts-grid />
-      </template>
-      <template v-slot:sidebar>
-        Nothing here
       </template>
     </main-section>
-    <!-- <news-letter-form-modal /> -->
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
-// import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 import About from '~/components/About'
-// import Solution from '~/components/Solution'
 
 export default {
   name: 'HomePage',
@@ -39,7 +31,6 @@ export default {
   },
   components: {
     About
-    // Solution
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])

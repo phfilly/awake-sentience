@@ -1,11 +1,11 @@
 ---
 title: The South African Depression & Anxiety Group
-subtitle: Psychologist David Rosenstein addresses The Mental Health Matters Summit in Observatory 
+subtitle: Psychologist David Rosenstein addresses The Mental Health Matters Summit in Observatory
 category:
   - Info
 author: David Rosenstein
 date: 2019-08-02T04:27:56.800Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+featureImage: /uploads/mindfulness.jpg
 ---
 Cape Town - Untreated mental disorders cost our economy more than R35 billion in lost working days every year, with one in six South Africans suffering from severe depression or some form of mental disorder within their lifetime.
 

@@ -9,6 +9,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title animated fadeInUp">
+          <!-- <img src="/logo_main.png" /> -->
           {{ title }}
         </h1>
         <h2 class="subtitle animated fadeInUp slower">

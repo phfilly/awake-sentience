@@ -1,10 +1,6 @@
 <template>
   <div>
-    <section class="section is-normal">
-      <h1 class="title has-text-centered">
-        Meet the team
-      </h1>
-    </section>
+    <section class="section is-normal"></section>
     <div class="columns">
       <div class="column">
         <div>
