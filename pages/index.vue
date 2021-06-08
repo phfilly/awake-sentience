@@ -1,6 +1,11 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+    <site-hero
+      :title="title"
+      :subtitle="subtitle"
+      :image="featureImage"
+      class-name="main"
+    >
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
@@ -12,6 +17,21 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <about />
+
+        <section class="section is-normal">
+          <h1 class="title has-text-centered">
+            Our Partners
+          </h1>
+        </section>
+
+        <partners />
+
+        <section class="section is-normal">
+          <h1 class="title has-text-centered">
+            Our blog
+          </h1>
+        </section>
+        <posts-grid />
       </template>
     </main-section>
   </div>
@@ -21,6 +41,7 @@
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
 import About from '~/components/About'
+import Partners from '~/components/Partners'
 
 export default {
   name: 'HomePage',
@@ -30,7 +51,8 @@ export default {
     }
   },
   components: {
-    About
+    About,
+    Partners
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])

@@ -2,6 +2,7 @@
   <section :class="`hero is-medium hero-theme-${computedTheme}`">
     <img
       class="hero-bg-img"
+      :class="className"
       :src="responsiveImage.src"
       :lazy="false"
       :srcset="responsiveImage.srcSet"
@@ -34,7 +35,8 @@ export default {
     subtitle: { type: String, default: '' },
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
-    theme: { type: String, default: '' }
+    theme: { type: String, default: '' },
+    className: { type: String, default: '' }
   },
   computed: {
     responsiveImage() {
@@ -55,7 +57,7 @@ export default {
 
 <style lang="scss" scoped>
 .hero {
-  margin-top: 52px;
+  margin-top: 75px;
   background-size: cover !important;
   background-position: center;
   text-align: center;
@@ -104,6 +106,9 @@ export default {
     width: 100%;
     height: 100%;
   }
+  .main {
+    object-fit: fill !important;
+  }
   .opti-image {
     opacity: 0;
   }
@@ -134,6 +139,8 @@ export default {
   .hero-body {
     position: relative;
     z-index: 2;
+    padding-bottom: 20rem !important;
+    padding-top: 20rem !important;
   }
 }
 .hero-theme-dark {
