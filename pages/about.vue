@@ -1,7 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Our Team"
+      title="Meet the team"
       subtitle=""
       image="/uploads/leon.jpg"
     ></site-hero>

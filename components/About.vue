@@ -2,7 +2,7 @@
   <div>
     <section class="section is-normal">
       <h1 class="title has-text-centered">
-        About
+        About us
       </h1>
     </section>
     <div class="content is-medium">

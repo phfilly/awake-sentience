@@ -4,14 +4,17 @@
     <div class="columns">
       <div class="column">
         <div>
-          <figure class="image is-4by3">
+          <figure class="image is-180x180">
             <img
-              src="https://bulma.io/images/placeholders/1280x960.png"
+              class="is-square"
+              src="~/assets/uploads/kevashini.png"
               alt="Placeholder image"
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4"><br />Kevashini Govender-Naidoo</h5>
+        <h5 class="subtitle is-size-4">
+          Kevashini Govender-Naidoo
+        </h5>
         <p class="has-text-justified">
           Kevashini Govender-Naidoo is a University of Cape Town trained
           clinical psychologist and a specialist organisational development and
@@ -32,14 +35,17 @@
 
       <div class="column">
         <div>
-          <figure class="image is-4by3">
+          <figure class="image is-180x180">
             <img
-              src="https://bulma.io/images/placeholders/1280x960.png"
+              class="is-square"
+              src="~/assets/uploads/ayesha.png"
               alt="Placeholder image"
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4"><br />Ayesha Booley-Schreuder</h5>
+        <h5 class="subtitle is-size-4">
+          Ayesha Booley-Schreuder
+        </h5>
         <p class="has-text-justified">
           Ayesha Booley-Schreuder, is a Clinical Psychologist, registered with
           the Health Professions Council of South Africa (HPCSA). She completed
@@ -66,14 +72,17 @@
     <div class="columns">
       <div class="column">
         <div>
-          <figure class="image is-4by3">
+          <figure class="image is-180x180">
             <img
-              src="https://bulma.io/images/placeholders/1280x960.png"
+              class="is-rounded"
+              src="~/assets/uploads/nivan.png"
               alt="Placeholder image"
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4"><br />Nivan Bijou</h5>
+        <h5 class="subtitle is-size-4">
+          Nivan Bijou
+        </h5>
         <p class="has-text-justified">
           Of Nivan’s 23 years in financial and financial related industries, his
           last 15 years have been in payments. Over the 8 years he has set up a
@@ -100,14 +109,17 @@
 
       <div class="column">
         <div>
-          <figure class="image is-4by3">
+          <figure class="image is-180x180">
             <img
-              src="https://bulma.io/images/placeholders/1280x960.png"
+              class="is-rounded"
+              src="~/assets/uploads/sumit.png"
               alt="Placeholder image"
             />
           </figure>
         </div>
-        <h5 class="subtitle is-size-4"><br />Sumit Mittal</h5>
+        <h5 class="subtitle is-size-4">
+          Sumit Mittal
+        </h5>
         <p class="has-text-justified">
           Sumit Mittal is an accomplished professional with over 19 years of
           corporate experience having worked across world-leading brands such as
@@ -136,3 +148,10 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.is-180x180 {
+  height: 180px;
+  width: 180px;
+}
+</style>

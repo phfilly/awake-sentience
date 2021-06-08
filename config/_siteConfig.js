@@ -22,20 +22,16 @@ export default {
       name: 'Home',
       link: '/'
     },
-    // {
-    //   name: 'About',
-    //   link: '/about'
-    // },
     {
-      name: 'Services and Solutions',
-      link: '/Services'
+      name: 'Services & Solutions',
+      link: '/services'
     },
     {
-      name: 'Our Team',
+      name: 'Team',
       link: '/about'
     },
     {
-      name: 'In The News',
+      name: 'News',
       link: '/news'
     },
     {
