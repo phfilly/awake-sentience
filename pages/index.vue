@@ -1,9 +1,10 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero
-      :title="title"
+      title=""
       :subtitle="subtitle"
       :image="featureImage"
+      :logo="featureLogo"
       class-name="main"
     >
       <button
@@ -55,7 +56,7 @@ export default {
     Partners
   },
   computed: {
-    ...mapState(['title', 'subtitle', 'featureImage'])
+    ...mapState(['title', 'subtitle', 'featureImage', 'featureLogo'])
   },
   fetch({ store, params }) {
     setPageData(store, { slug: 'home' })

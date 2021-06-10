@@ -12,7 +12,8 @@ export default {
   siteName: 'Sentience Health',
   tagline: 'Sentience is the capacity to be aware of feelings and sensations',
   featureImage: '/uploads/homepage.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  featureLogo: '/uploads/logo-white.png',
+  logo: 'logo-component',
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID

@@ -10,7 +10,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title animated fadeInUp">
-          <!-- <img src="/logo_main.png" /> -->
+          <img v-if="logo" :src="responsiveLogo" class="logo" />
           {{ title }}
         </h1>
         <h2 class="subtitle animated fadeInUp slower">
@@ -34,6 +34,7 @@ export default {
     title: { type: String, default: '' },
     subtitle: { type: String, default: '' },
     image: { type: String, default: '' },
+    logo: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' },
     className: { type: String, default: '' }
@@ -44,6 +45,12 @@ export default {
         return require(`~/assets${this.image}`)
       }
       return { src: this.image, srcSet: '' }
+    },
+    responsiveLogo() {
+      if (this.image.indexOf('/uploads') === 0) {
+        return require(`~/assets${this.logo}`)
+      }
+      return { src: this.logo, srcSet: '' }
     },
     computedTheme() {
       if (this.theme === '' && this.$siteConfig.hero.theme) {
@@ -70,6 +77,10 @@ export default {
   @media (min-width: 768px) {
     font-size: 3.2rem;
   }
+}
+.logo {
+  max-width: 450px;
+  margin: auto;
 }
 .subtitle,
 .under-subtitle {

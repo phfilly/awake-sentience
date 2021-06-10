@@ -22,7 +22,7 @@
           experience, Kevashini co-founded Impilo Consulting in 2017. She took
           an interest in systems-psychodynamic work with organisations as a
           psychology student, and developed an expertise through extensive and
-          diverse experience in the public and non governmental sectors.Her
+          diverse experience in the public and non governmental sectors.<br /><br />Her
           clinical experience also includes public and private practice with
           Individuals, groups and organisations In South Africa and the United
           Kingdom. She is especially interested in the impact of mental health
@@ -56,8 +56,8 @@
           co-founded Impilo Consulting in 2017 and prior to this has had
           extensive clinical experience working with individuals of all ages,
           groups and organisations, both in private practice and within the
-          context of the University of Cape Town. Her special area of interest
-          interest is in working psychodynamically with groups and
+          context of the University of Cape Town. <br /><br />Her special area
+          of interest interest is in working psychodynamically with groups and
           organisations. Ayesha has years of clinical expertise In working with
           students and young adults of different ages, student wellness services
           at the tertiary scholarship funds, and a keen interest in mental
@@ -95,12 +95,12 @@
           Business Development initiatives across Sub Sahara Africa (SSA),
           Heading Debit Card Sales across SAMEA, Heading all Core Issuing
           Product Sales across Middle East & Levant, and the most recent was
-          Heading Acceptance across Middle East & Africa (MEA). His Debit Card
-          and Core Products roles were based out of Dubai, while his other roles
-          were based out of Johannesburg. Prior to MasterCard Nivan was a
-          Corporate Banker with Absa Corporate and Merchant Bank where he spent
-          5 years. Before Absa, Nivan was with First National Bank based out of
-          Durban, South Africa. At First National Bank he was a graduate
+          Heading Acceptance across Middle East & Africa (MEA). <br /><br />His
+          Debit Card and Core Products roles were based out of Dubai, while his
+          other roles were based out of Johannesburg. Prior to MasterCard Nivan
+          was a Corporate Banker with Absa Corporate and Merchant Bank where he
+          spent 5 years. Before Absa, Nivan was with First National Bank based
+          out of Durban, South Africa. At First National Bank he was a graduate
           trainee. He holds an MBA from Wits Business School, Bachelor of
           Commerce from the University of KwaZulu-Natal, a CAIB (SA), and a
           Higher Diploma in Corporate Law from the University of Johannesburg
@@ -112,7 +112,7 @@
           <figure class="image is-180x180">
             <img
               class="is-rounded"
-              src="~/assets/uploads/sumit.png"
+              src="~/assets/uploads/sumit.jpg"
               alt="Placeholder image"
             />
           </figure>
@@ -131,10 +131,10 @@
           Merchant Acquiring for MEA region before diving into the
           entrepreneurial world. Mr. Mittal started the current venture keeping
           the growing mental health issues across the world and thought it to be
-          a serious issue to warrant leaving the corporate life. He spent the
-          next 12 month understanding the problems faced by people including
-          impact of social media and then created a platform which is a
-          combination of social media platform in the front end and a mental
+          a serious issue to warrant leaving the corporate life.<br /><br />
+          He spent the next 12 month understanding the problems faced by people
+          including impact of social media and then created a platform which is
+          a combination of social media platform in the front end and a mental
           health platform as an end goal with appropriate features and
           functionality. The platform is a well-known platform on mental health
           with users from across the globe and has been covered in well-known

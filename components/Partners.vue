@@ -7,7 +7,7 @@
       <div class="column is-half">
         <figure class="image partner partner-width">
           <img
-            src="~/assets/uploads/ventallout.png"
+            src="~/assets/uploads/ventallout-black.png"
             style="background-color: #2e373c;"
           />
         </figure>
