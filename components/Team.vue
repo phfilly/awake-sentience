@@ -29,7 +29,7 @@
           on an organisation/workplace, student wellness within tertiary
           institutions and scholarship funds as well as issues of race, power
           and gender within organisations. Kevashini currently consults for the
-          University of Cape Town and has been doing so for the past 8 years.
+          University of Cape Town and University of Stellenbosch.
         </p>
       </div>
 
@@ -64,8 +64,8 @@
           health and wellness within corporate and NGO settings. Her diverse
           experience within these contexts span across race, ethnicity, class,
           and issues of power and conflict in a broad range of organisations.
-          Ayesha currently consults for the University of Cape Town and has been
-          doing so for the past 8 years.
+          Ayesha currently consults for the University of Cape Town and
+          University of Stellenbosch.
         </p>
       </div>
     </div>

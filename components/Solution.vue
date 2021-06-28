@@ -35,10 +35,11 @@
       experience for employees but also enables the responses provided to inform
       and effectively shape organisational policies, procedures and
       interventions. Sentience Health’s anonymous employee feedback programme
-      ensures maximise engagement with employees. Psychological analysis of
+      ensures maximum engagement with employees. Psychological analysis of
       feedback allows for leaders to gain insight into unknown dynamics
-      affecting the organisations culture or potential mental health issues and
-      risks facing employees allowing for necessary intervention.
+      affecting the organisation's culture or potential mental health issues and
+      the risks that may be facing employees, thus allowing for necessary
+      intervention to take place
     </div>
   </div>
 </template>
